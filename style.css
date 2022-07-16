@@ -1,1 +1,22 @@
+.filter-grid {
+display: inline-grid;
+grid-auto-flow: column;
+align-self: center;
+border: 1px solid black;
+place-items: center;
+}
 
+.filter-grid-item {
+display: grid
+grid-template-columns: auto auto;
+border: 1px solid red;
+padding: 10px;
+}
+
+.checkbox-grid {
+
+}
+
+.checkbox-item {
+
+}
